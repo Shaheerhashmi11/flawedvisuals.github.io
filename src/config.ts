@@ -4,5 +4,4 @@ export const TAGLINE = "MEMORIES | CULTURE | STORIES"
 
 // Contacts
 export const contact = "Keep in touch"
-export const phone = ""
 export const email = "hello@flawedvisuals.com"
