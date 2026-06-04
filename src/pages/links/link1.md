@@ -1,5 +1,5 @@
 ---
-title: Twitter
-emoji: 🐦
-href: https://twitter.com/yOyO38
+title: Instagram
+emoji: 📸
+href: https://www.instagram.com/flawed.visuals/
 ---
