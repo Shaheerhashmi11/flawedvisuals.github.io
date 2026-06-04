@@ -1,4 +1,4 @@
 ---
 icon: youtube
-url: https://www.youtube.com/c/yoandevco
+url: http://www.youtube.com/@FlawedVisuals
 ---
