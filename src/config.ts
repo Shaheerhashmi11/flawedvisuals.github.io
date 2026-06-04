@@ -1,8 +1,8 @@
-export const SUBTITLE = "A free clone of LinkTree"
-export const TITLE = "LinkTreeFreeClone"
-export const TAGLINE = "Make your own LinkTree page for free"
+export const SUBTITLE = "Flawed Visuals"
+export const TITLE = "Content Creator & Visual Artiste"
+export const TAGLINE = "MEMORIES | CULTURE | STORIES"
 
 // Contacts
 export const contact = "Keep in touch"
-export const phone = "+33600000000"
-export const email = "contact@yoandev.co"
+export const phone = ""
+export const email = "hello@flawedvisuals.com"
