@@ -1,4 +1,4 @@
 ---
-icon: twitter
-url: https://twitter.com/yOyO38
+icon: Instagram
+url: https://www.instagram.com/flawed.visuals/
 ---
