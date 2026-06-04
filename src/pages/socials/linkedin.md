@@ -1,4 +1,4 @@
 ---
-icon: linkedin
-url: https://www.linkedin.com/in/yoan-bernabeu-392638116/
+icon: Facebook
+url: https://www.facebook.com/people/FlawedVisuals/61577376651783/
 ---
